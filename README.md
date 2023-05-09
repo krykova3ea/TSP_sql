@@ -1,2 +1,3 @@
 # TSP_sql
-Find the shortest closed path between all cities, provided that each city can only be entered by once.
+<p>Find the shortest closed path between all cities, provided that each city can only be entered by once.</p>
+<p>There are two algorithms: Brute-force search and Nearest neighbour algorithm.</p>
